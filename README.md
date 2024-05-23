@@ -6,6 +6,9 @@ Data augmentation is the process of artificially generating new data from existi
 ## Non-Random Transforms
 
 ### -Pad Transform Output
+```
+padded_imgs = [transforms.Pad(padding=padding, fill=125, padding_mode='reflect')(original_img) for padding in (5, 15, 20, 45)]
+```
 ![Sample Image](Non-Random_Transformstemp/output-figures/Pad.png)
 
 ### -Resize Transform Output
