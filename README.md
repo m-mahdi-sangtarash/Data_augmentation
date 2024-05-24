@@ -41,3 +41,59 @@ _Output_
 
 ![Sample Image](Non-Random_Transformstemp/output-figures/FiveCrop.png)
 
+
+## Random Transforms
+
+### ● ColorJitter Transform
+
+_First Ouput_
+
+![Sample Image](Random_Transforms/Outputs/ColorJitter-output.png)
+
+_Second Output_
+
+![Sample Image](Random_Transforms/Outputs/ColorJitter-second-output.png)
+
+
+### ● RandomPerspective Transform
+
+_First Ouput_
+
+![Sample Image](Random_Transforms/Outputs/RandPrespective-1th-output.png)
+
+_Second Output_
+
+![Sample Image](Random_Transforms/Outputs/RandPrespective-2th-output.png)
+
+
+### ● RandomRotation Transform
+
+_First Ouput_
+
+![Sample Image](Random_Transforms/Outputs/RandRotation-1th-output.png)
+
+_Second Output_
+
+![Sample Image](Random_Transforms/Outputs/RandRotation-2th-output.png)
+
+
+### ● RandomCrop Transform
+
+_First Ouput_
+
+![Sample Image](Random_Transforms/Outputs/RandCrop-1th-output.png)
+
+_Second Output_
+
+![Sample Image](Random_Transforms/Outputs/RandCrop-2th-output.png)
+
+
+### ● RandomVerticalFlip Transform
+
+_First Ouput_
+
+![Sample Image](Random_Transforms/Outputs/RandVerticalFlip-1th-output.png)
+
+_Second Output_
+
+![Sample Image](Random_Transforms/Outputs/RandVerticalFlip-2th-output.png)
