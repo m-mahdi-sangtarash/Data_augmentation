@@ -97,3 +97,27 @@ _First Ouput_
 _Second Output_
 
 ![Sample Image](Random_Transforms/Outputs/RandVerticalFlip-2th-output.png)
+
+
+## Auto Augmentation
+
+### ● RandAugment Transform
+
+_First Output_
+
+![Sample Image](Auto_Augmentation/Outputs/RandAugment-1th-output.png)
+
+_Second Output_
+
+![Sample Image](Auto_Augmentation/Outputs/RandAugment-2th-output.png)
+
+
+### ● AugMix Transform
+
+_First Output_
+
+![Sample Image](Auto_Augmentation/Outputs/AugMix-1th-output.png)
+
+_Second Output_
+
+![Sample Image](Auto_Augmentation/Outputs/AugMix-2th-output.png)
